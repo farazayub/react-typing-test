@@ -271,18 +271,6 @@ const App = () => {
 								</a>
 							</li>
 						</ul>
-						<div className="copyright">
-							© 2020. Designed and built with
-							<span role="img" aria-label="Heart">
-								{' '}
-								❤️{' '}
-							</span>
-							by {' '}
-							<a href="https://gkstyle.net/" title="GK STYLE">
-								GK STYLE
-							</a>{' '}
-							team.
-						</div>
 					</div>
 				</footer>
 			</div>
